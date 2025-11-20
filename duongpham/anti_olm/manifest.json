@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Anti Exam Monitor",
+  "version": "1.0",
+  "description": "Chặn tab-detect, fullscreen ép buộc, heartbeat giám sát khi thi online (ChatGPT góp sức =))).",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["script.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "permissions": ["scripting"]
+}
