@@ -1,7 +1,7 @@
 [
     {
         "domain": ".messenger.com",
-        "expirationDate": 1796146069.430856,
+        "expirationDate": 1796971483.315378,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -10,11 +10,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "30%3A4UICJu5z_VMOWA%3A2%3A1764513960%3A-1%3A-1%3A%3AAcwGgP3O8M7YAidaPiFfaWsugKzPQwpWw0eSYHUmcA"
+        "value": "30%3A4UICJu5z_VMOWA%3A2%3A1764513960%3A-1%3A-1%3A%3AAcwNGx4fWy6Z3Q7HArM9f4PpaDyGEnRYeLmPVHWeVQ"
     },
     {
         "domain": ".messenger.com",
-        "expirationDate": 1765214869,
+        "expirationDate": 1766040283,
         "hostOnly": false,
         "httpOnly": false,
         "name": "dpr",
@@ -53,7 +53,7 @@
     },
     {
         "domain": ".messenger.com",
-        "expirationDate": 1796146069.430708,
+        "expirationDate": 1796971483.315256,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -92,7 +92,7 @@
     },
     {
         "domain": ".messenger.com",
-        "expirationDate": 1765214869,
+        "expirationDate": 1766040283,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
